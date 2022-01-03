@@ -1,0 +1,13 @@
+{
+    "description": {
+        "text": "The Mobile Camel Cabana"
+    },
+    "players": {
+        "max": 20,
+        "online": 0
+    },
+    "version": {
+        "name": "1.17.1",
+        "protocol": 756
+    }
+}
